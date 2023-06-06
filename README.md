@@ -1,5 +1,5 @@
-# portchnage
+# portchange
 # a. pipeline
-# b. jrnkins server
+# b. jenkins server
 # c. changing some port numbers for servers
-# d. build and deploy
+# d. Build and deploy
