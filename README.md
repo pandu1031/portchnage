@@ -9,3 +9,4 @@
 # jenkinspipeline
 # serverspipeline
 # commands
+commmit the changes made for the server
