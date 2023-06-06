@@ -2,7 +2,7 @@
 pipeline{
     agent any 
     parameters {
-        string(name:'SERVERIP', defaultvalue:'', description:'Tomcat server')
+        string(name:'SERVERIP', defaultValue:'', description:'Tomcat server')
     }
     stages{
         stage("change port number"){
